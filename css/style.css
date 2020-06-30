@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+.piu{
+     position: relative;
+}
+.img{
+   
+    height: 120px;
+    width: auto;
+    padding-top: 1em;
+}
+.bottom{
+    position: relative;
+    padding-top: 4em;
+    left: 50%;
+    
+}
+button.abc {
+	color: #fff; 
+	background: #FFA500; 
+	padding: 15px; 
+	border-radius: 50%;
+    border: 2px solid #FF8247;
+    cursor: pointer;
+} 
+button.abc:hover { 
+    background: #FF6347; 
+    
+}
